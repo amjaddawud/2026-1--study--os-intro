@@ -16,7 +16,7 @@ title: Презентация по лабораторной работе №3
 subtitle: Атрибуты файлов
 license: CC BY
 date: today
-date-format: "2026-2-22" # Example: 2025-09-06
+date-format: "2026-3-4" # Example: 2025-09-06
 ---
 
 # Информация
